@@ -5,8 +5,10 @@
 }
 
 body {
+    background-color: #efed66;
     font-family: 'Ubuntu', sans-serif;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
